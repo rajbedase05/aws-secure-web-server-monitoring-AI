@@ -1,0 +1,14 @@
+# Project Documentation
+
+This directory contains the implementation notes, architecture details, testing evidence, and troubleshooting documentation for the Secure Web Server on AWS project.
+
+## Planned Documentation
+
+- AWS account security
+- VPC and network configuration
+- EC2 and Docker deployment
+- CloudWatch monitoring and SNS alerts
+- AI-assisted log analysis
+- Testing results and screenshots
+
+Documentation will be updated as each project phase is completed.
